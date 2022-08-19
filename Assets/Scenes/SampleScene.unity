@@ -2842,6 +2842,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: SubwayCity
       objectReference: {fileID: 0}
+    - target: {fileID: 2129612840551915562, guid: e0fbc21860b8199469f40c7c6878a7c3,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000,
+        type: 0}
     - target: {fileID: 3158921373043380793, guid: e0fbc21860b8199469f40c7c6878a7c3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6299,7 +6305,7 @@ PrefabInstance:
     - target: {fileID: 8539750913008315054, guid: 6bf220d195a05b64384685d5b65f7923,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 11.894
+      value: 11.457
       objectReference: {fileID: 0}
     - target: {fileID: 8539750913008315054, guid: 6bf220d195a05b64384685d5b65f7923,
         type: 3}
@@ -13955,6 +13961,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Amie2@Idle
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: b4b310188a5704b4f91fa3c68eee8d54,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000,
+        type: 0}
     - target: {fileID: -7211905197285777223, guid: b4b310188a5704b4f91fa3c68eee8d54,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -22870,6 +22882,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: WatcherHouse
       objectReference: {fileID: 0}
+    - target: {fileID: 604606401357256960, guid: fe0d1f96569f84d4f850cbcd20e9a3fc,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000,
+        type: 0}
     - target: {fileID: 4483517637951056659, guid: fe0d1f96569f84d4f850cbcd20e9a3fc,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23302,6 +23320,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: SubwayHouse
       objectReference: {fileID: 0}
+    - target: {fileID: 2129612840551915562, guid: e0fbc21860b8199469f40c7c6878a7c3,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000,
+        type: 0}
     - target: {fileID: 3158921373043380793, guid: e0fbc21860b8199469f40c7c6878a7c3,
         type: 3}
       propertyPath: m_LocalPosition.x
