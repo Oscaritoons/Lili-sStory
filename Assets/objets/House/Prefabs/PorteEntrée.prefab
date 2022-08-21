@@ -153,6 +153,7 @@ GameObject:
   - component: {fileID: 7788904833157887388}
   - component: {fileID: 8505345846117322195}
   - component: {fileID: 4681043556057576992}
+  - component: {fileID: 8920951639087948191}
   m_Layer: 0
   m_Name: Cadre
   m_TagString: Untagged
@@ -219,6 +220,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8920951639087948191
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5711896079478195595}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023893928, y: 0.021664256, z: 0.019789912}
+  m_Center: {x: 0.0011230771, y: -0.0008321275, z: -0.00012098856}
 --- !u!1 &5994507204962599816
 GameObject:
   m_ObjectHideFlags: 0

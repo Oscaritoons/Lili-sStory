@@ -224,6 +224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4483517637951056659}
   - component: {fileID: 5814890701595461225}
+  - component: {fileID: 2289297338361086247}
   m_Layer: 0
   m_Name: WatcherHouse
   m_TagString: Untagged
@@ -279,6 +280,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2289297338361086247
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 604606401357256960}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.676712, y: 10.824083, z: 1.5917097}
+  m_Center: {x: 0.09007762, y: 4.9120417, z: 0.29585588}
 --- !u!1 &671908284403377241
 GameObject:
   m_ObjectHideFlags: 0

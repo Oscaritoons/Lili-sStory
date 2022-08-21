@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6656234971328602151}
   - component: {fileID: 7641377893970244640}
   - component: {fileID: 4116881177045574432}
+  - component: {fileID: 2156219460041233041}
   m_Layer: 0
   m_Name: Barreaux.003
   m_TagString: Untagged
@@ -77,6 +78,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &2156219460041233041
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136375891848932537}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708047, y: 0.0019310855, z: 0.032028925}
+  m_Center: {x: 0.0005250406, y: 0.00000047602757, z: 0.0135828145}
 --- !u!1 &247579169399109881
 GameObject:
   m_ObjectHideFlags: 0
@@ -88,6 +102,7 @@ GameObject:
   - component: {fileID: 9217490758687098916}
   - component: {fileID: 8294840274926079072}
   - component: {fileID: 8807848168171672860}
+  - component: {fileID: 6519936839777337365}
   m_Layer: 0
   m_Name: Barreaux.001
   m_TagString: Untagged
@@ -154,6 +169,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6519936839777337365
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 247579169399109881}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708054, y: 0.0019310847, z: 0.032028925}
+  m_Center: {x: 0.00052504067, y: -0.000000029786674, z: 0.0135828145}
 --- !u!1 &730979701448439823
 GameObject:
   m_ObjectHideFlags: 0
@@ -165,6 +193,7 @@ GameObject:
   - component: {fileID: 8047546523435037847}
   - component: {fileID: 4620905928218458650}
   - component: {fileID: 6972157799913050727}
+  - component: {fileID: 7839332733281303667}
   m_Layer: 0
   m_Name: Blason.004
   m_TagString: Untagged
@@ -231,6 +260,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &7839332733281303667
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 730979701448439823}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316085, z: 0.024708308}
+  m_Center: {x: -0.00016319011, y: -0.003939492, z: -0.0008361221}
 --- !u!1 &766310527044044812
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,6 +375,7 @@ GameObject:
   - component: {fileID: 1308468315492457124}
   - component: {fileID: 6392459743278783711}
   - component: {fileID: 6251818434602320513}
+  - component: {fileID: 1554388867007144684}
   m_Layer: 0
   m_Name: Barreaux.006
   m_TagString: Untagged
@@ -399,6 +442,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &1554388867007144684
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303803574552926699}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708054, y: 0.0019310847, z: 0.032028925}
+  m_Center: {x: 0.0005255175, y: -0.00000005962029, z: 0.0135828145}
 --- !u!1 &1446134900139586579
 GameObject:
   m_ObjectHideFlags: 0
@@ -410,6 +466,7 @@ GameObject:
   - component: {fileID: 2396221480156458930}
   - component: {fileID: 2244136792647039896}
   - component: {fileID: 1652642683209108171}
+  - component: {fileID: 799989763048954923}
   m_Layer: 0
   m_Name: RampeHaut.005
   m_TagString: Untagged
@@ -476,6 +533,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &799989763048954923
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446134900139586579}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000007619152, y: -2.9079705e-10, z: -0.005828982}
 --- !u!1 &1910456900484152848
 GameObject:
   m_ObjectHideFlags: 0
@@ -487,6 +557,7 @@ GameObject:
   - component: {fileID: 8526714274501830097}
   - component: {fileID: 5029874456887648937}
   - component: {fileID: 8148040301707836655}
+  - component: {fileID: 3186747901704589030}
   m_Layer: 0
   m_Name: RampeHaut
   m_TagString: Untagged
@@ -553,6 +624,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3186747901704589030
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910456900484152848}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000008095989, y: -0.000000059895925, z: -0.005828982}
 --- !u!1 &2045678458350564232
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,6 +648,7 @@ GameObject:
   - component: {fileID: 2453096448264382005}
   - component: {fileID: 793277888063012401}
   - component: {fileID: 1836541853426439141}
+  - component: {fileID: 651105048626008188}
   m_Layer: 0
   m_Name: Barreaux.005
   m_TagString: Untagged
@@ -630,6 +715,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &651105048626008188
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2045678458350564232}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708054, y: 0.0019310847, z: 0.032028925}
+  m_Center: {x: 0.0005255175, y: 0.000000059589, z: 0.0135828145}
 --- !u!1 &2067879818475079984
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,7 +798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3158921373043380793}
   m_Layer: 0
-  m_Name: SubwayHouse
+  m_Name: Subway
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -748,6 +846,7 @@ Transform:
   - {fileID: 8332162003835393432}
   - {fileID: 1599506866704021589}
   - {fileID: 7865306288625334636}
+  - {fileID: 413336995904983215}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
@@ -762,6 +861,7 @@ GameObject:
   - component: {fileID: 300149356938055645}
   - component: {fileID: 5259451569076675549}
   - component: {fileID: 5633313685721417511}
+  - component: {fileID: 1230829753004488499}
   m_Layer: 0
   m_Name: Blason.001
   m_TagString: Untagged
@@ -828,6 +928,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &1230829753004488499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2786426494900731458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016271339, y: -0.003939492, z: -0.0008361223}
 --- !u!1 &2917990921813345182
 GameObject:
   m_ObjectHideFlags: 0
@@ -839,6 +952,7 @@ GameObject:
   - component: {fileID: 4358678679138161568}
   - component: {fileID: 1111419108337077431}
   - component: {fileID: 7246382281896903231}
+  - component: {fileID: 5833081860210929278}
   m_Layer: 0
   m_Name: Blason.007
   m_TagString: Untagged
@@ -905,6 +1019,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &5833081860210929278
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2917990921813345182}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016319, y: -0.003939492, z: -0.0008361223}
 --- !u!1 &2995089313341598237
 GameObject:
   m_ObjectHideFlags: 0
@@ -916,6 +1043,7 @@ GameObject:
   - component: {fileID: 272334912112371102}
   - component: {fileID: 928668421773156619}
   - component: {fileID: 7252025244229663405}
+  - component: {fileID: 2589878366596343591}
   m_Layer: 0
   m_Name: Barreaux
   m_TagString: Untagged
@@ -982,6 +1110,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &2589878366596343591
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2995089313341598237}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708054, y: 0.0019310847, z: 0.032028925}
+  m_Center: {x: 0.00052504067, y: -0.000000029786674, z: 0.0135828145}
 --- !u!1 &3276766677861324135
 GameObject:
   m_ObjectHideFlags: 0
@@ -1084,6 +1225,7 @@ GameObject:
   - component: {fileID: 8513558555114815136}
   - component: {fileID: 5590000520194851368}
   - component: {fileID: 310138179900255435}
+  - component: {fileID: 6076758675347423241}
   m_Layer: 0
   m_Name: Blason.005
   m_TagString: Untagged
@@ -1150,6 +1292,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6076758675347423241
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3601331910341556804}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016319, y: -0.003939492, z: -0.0008361223}
 --- !u!1 &3611024511510037232
 GameObject:
   m_ObjectHideFlags: 0
@@ -1238,6 +1393,7 @@ GameObject:
   - component: {fileID: 3995627108394292555}
   - component: {fileID: 6211702535932470826}
   - component: {fileID: 7093598153210031025}
+  - component: {fileID: 4826714830632452232}
   m_Layer: 0
   m_Name: RampeHaut.002
   m_TagString: Untagged
@@ -1304,6 +1460,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &4826714830632452232
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773855763516149465}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000007619152, y: -2.912796e-10, z: -0.005828982}
 --- !u!1 &4394500084150114805
 GameObject:
   m_ObjectHideFlags: 0
@@ -1315,6 +1484,7 @@ GameObject:
   - component: {fileID: 1588779422768755903}
   - component: {fileID: 7067008682574096400}
   - component: {fileID: 6352145681236343863}
+  - component: {fileID: 5010843434203908879}
   m_Layer: 0
   m_Name: Blason.002
   m_TagString: Untagged
@@ -1381,6 +1551,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &5010843434203908879
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4394500084150114805}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016271339, y: -0.003939492, z: -0.0008361223}
 --- !u!1 &4420835880376382559
 GameObject:
   m_ObjectHideFlags: 0
@@ -1392,6 +1575,8 @@ GameObject:
   - component: {fileID: 1639846335120002362}
   - component: {fileID: 1936602002728759614}
   - component: {fileID: 3621236073709505503}
+  - component: {fileID: 6445227204322051183}
+  - component: {fileID: 5599707582056829162}
   m_Layer: 0
   m_Name: Poteaux
   m_TagString: Untagged
@@ -1458,6 +1643,32 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6445227204322051183
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4420835880376382559}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.003934974, y: 0.0025268034, z: 0.030789806}
+  m_Center: {x: 0.010523779, y: -0.0000000016475799, z: 0.00092035776}
+--- !u!65 &5599707582056829162
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4420835880376382559}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.003906278, y: 0.0025268034, z: 0.030789806}
+  m_Center: {x: -0.010538132, y: 0.000000001584642, z: 0.00092035776}
 --- !u!1 &4858783960053737170
 GameObject:
   m_ObjectHideFlags: 0
@@ -1469,6 +1680,7 @@ GameObject:
   - component: {fileID: 6266871302409446768}
   - component: {fileID: 4397081683742854894}
   - component: {fileID: 9111075779208992969}
+  - component: {fileID: 8526489189571463499}
   m_Layer: 0
   m_Name: RampeHaut.006
   m_TagString: Untagged
@@ -1535,6 +1747,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8526489189571463499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4858783960053737170}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000007619152, y: -2.9079705e-10, z: -0.005828982}
 --- !u!1 &5670050902112220544
 GameObject:
   m_ObjectHideFlags: 0
@@ -1546,6 +1771,7 @@ GameObject:
   - component: {fileID: 2151199131200384761}
   - component: {fileID: 3907234712484156360}
   - component: {fileID: 7535261671377495669}
+  - component: {fileID: 8820166262152288870}
   m_Layer: 0
   m_Name: Blason
   m_TagString: Untagged
@@ -1612,6 +1838,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8820166262152288870
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5670050902112220544}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016271339, y: -0.003939492, z: -0.0008361223}
 --- !u!1 &6118120268757396497
 GameObject:
   m_ObjectHideFlags: 0
@@ -1623,6 +1862,7 @@ GameObject:
   - component: {fileID: 8678002143099606284}
   - component: {fileID: 2648819744724764086}
   - component: {fileID: 3118848728702365817}
+  - component: {fileID: 2311427382668260362}
   m_Layer: 0
   m_Name: Blason.006
   m_TagString: Untagged
@@ -1689,6 +1929,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &2311427382668260362
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6118120268757396497}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316084, z: 0.024708308}
+  m_Center: {x: -0.00016366683, y: -0.0039394624, z: -0.0008361223}
 --- !u!1 &6234399147398696586
 GameObject:
   m_ObjectHideFlags: 0
@@ -1700,6 +1953,7 @@ GameObject:
   - component: {fileID: 1787203510516647620}
   - component: {fileID: 706416159958609464}
   - component: {fileID: 2290053075673013104}
+  - component: {fileID: 8668822865846569016}
   m_Layer: 0
   m_Name: RampeHaut.001
   m_TagString: Untagged
@@ -1766,6 +2020,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8668822865846569016
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6234399147398696586}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000008095989, y: -2.912796e-10, z: -0.005828982}
 --- !u!1 &6937857537515862375
 GameObject:
   m_ObjectHideFlags: 0
@@ -1777,6 +2044,7 @@ GameObject:
   - component: {fileID: 6017121700830923950}
   - component: {fileID: 8806208016494913340}
   - component: {fileID: 1907022410247369012}
+  - component: {fileID: 1567305287577772880}
   m_Layer: 0
   m_Name: Barreaux.002
   m_TagString: Untagged
@@ -1843,6 +2111,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &1567305287577772880
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6937857537515862375}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708054, y: 0.0019310847, z: 0.032028925}
+  m_Center: {x: 0.0005255175, y: -0.000000029786674, z: 0.0135828145}
 --- !u!1 &7352651512537800605
 GameObject:
   m_ObjectHideFlags: 0
@@ -1854,6 +2135,7 @@ GameObject:
   - component: {fileID: 8029288017615737848}
   - component: {fileID: 2597529459667230759}
   - component: {fileID: 5087305018783599435}
+  - component: {fileID: 5192131272613873254}
   m_Layer: 0
   m_Name: Panneau
   m_TagString: Untagged
@@ -1920,6 +2202,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &5192131272613873254
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7352651512537800605}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.050663695, y: 0.033951044, z: 0.052006755}
+  m_Center: {x: -0.0000015962972, y: 0.0018575658, z: -0.000007633228}
 --- !u!1 &7849423573524505853
 GameObject:
   m_ObjectHideFlags: 0
@@ -1931,6 +2226,7 @@ GameObject:
   - component: {fileID: 6398228150337386060}
   - component: {fileID: 700683872163590970}
   - component: {fileID: 4554241020210417578}
+  - component: {fileID: 6062932096994090311}
   m_Layer: 0
   m_Name: Barreaux.004
   m_TagString: Untagged
@@ -1997,6 +2293,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6062932096994090311
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7849423573524505853}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042708047, y: 0.0019310855, z: 0.032028925}
+  m_Center: {x: 0.000524981, y: 0.00000047602757, z: 0.0135828145}
 --- !u!1 &8001562106931326290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2008,6 +2317,8 @@ GameObject:
   - component: {fileID: 391212458825908707}
   - component: {fileID: 8054987014938234102}
   - component: {fileID: 4156860289171758720}
+  - component: {fileID: 3153695402203100742}
+  - component: {fileID: 4044475094479337740}
   m_Layer: 0
   m_Name: Blason.003
   m_TagString: Untagged
@@ -2074,6 +2385,32 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3153695402203100742
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8001562106931326290}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.022868764, y: 0.007316085, z: 0.024708308}
+  m_Center: {x: -0.00016319011, y: -0.003939492, z: -0.0008361221}
+--- !u!65 &4044475094479337740
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8001562106931326290}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.05065873, y: 0.08809567, z: 0.04663463}
+  m_Center: {x: 0.013731801, y: 0.04363012, z: 0.010127075}
 --- !u!1 &8282573480410460266
 GameObject:
   m_ObjectHideFlags: 0
@@ -2085,6 +2422,7 @@ GameObject:
   - component: {fileID: 8332162003835393432}
   - component: {fileID: 4272997376878342910}
   - component: {fileID: 4364023337683732969}
+  - component: {fileID: 3787145551417024600}
   m_Layer: 0
   m_Name: RampeHaut.007
   m_TagString: Untagged
@@ -2151,6 +2489,63 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3787145551417024600
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8282573480410460266}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447934, y: 0.0038208752, z: 0.013222603}
+  m_Center: {x: -0.000007619152, y: -2.9079705e-10, z: -0.005828982}
+--- !u!1 &8351653943134745551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 413336995904983215}
+  - component: {fileID: 850690721943871370}
+  m_Layer: 0
+  m_Name: GoToMetro
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &413336995904983215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8351653943134745551}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -1.1283476, y: -1.8971337, z: 0.8870274}
+  m_LocalScale: {x: 8.671278, y: 6.1841335, z: 6.7358093}
+  m_Children: []
+  m_Father: {fileID: 3158921373043380793}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &850690721943871370
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8351653943134745551}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.23023595, y: 0.8179805, z: 0.5903012}
+  m_Center: {x: -0.040021878, y: 0.091009736, z: -0.010708326}
 --- !u!1 &8445488848880548790
 GameObject:
   m_ObjectHideFlags: 0
@@ -2162,6 +2557,7 @@ GameObject:
   - component: {fileID: 3725732023948725345}
   - component: {fileID: 3521696345375317171}
   - component: {fileID: 2063066090895049128}
+  - component: {fileID: 9047399735685159066}
   m_Layer: 0
   m_Name: RampeHaut.004
   m_TagString: Untagged
@@ -2228,6 +2624,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &9047399735685159066
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8445488848880548790}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447927, y: 0.003820875, z: 0.013222603}
+  m_Center: {x: -0.000008095988, y: 0.00000047689355, z: -0.005828982}
 --- !u!1 &8512588238807221724
 GameObject:
   m_ObjectHideFlags: 0
@@ -2239,6 +2648,7 @@ GameObject:
   - component: {fileID: 3464311215113065975}
   - component: {fileID: 906901929448468449}
   - component: {fileID: 985048136565767000}
+  - component: {fileID: 6113541243465949914}
   m_Layer: 0
   m_Name: RampeHaut.003
   m_TagString: Untagged
@@ -2305,6 +2715,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6113541243465949914
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512588238807221724}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.045447927, y: 0.003820875, z: 0.013222603}
+  m_Center: {x: -0.000008095988, y: 0.00000047689355, z: -0.005828982}
 --- !u!1 &8648125822276725592
 GameObject:
   m_ObjectHideFlags: 0

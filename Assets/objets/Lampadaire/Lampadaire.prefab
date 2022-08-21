@@ -296,6 +296,7 @@ GameObject:
   - component: {fileID: 1380368045411758033}
   - component: {fileID: 1247412867216619359}
   - component: {fileID: 3432681805920113322}
+  - component: {fileID: 1834228890869636518}
   m_Layer: 0
   m_Name: Poteau
   m_TagString: Untagged
@@ -362,6 +363,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &1834228890869636518
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5957442319288679635}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010622889, y: 0.010622886, z: 0.08418924}
+  m_Center: {x: 0.00000011934432, y: 0.0000000016928273, z: 0.032676328}
 --- !u!1 &5961502796640142641
 GameObject:
   m_ObjectHideFlags: 0
